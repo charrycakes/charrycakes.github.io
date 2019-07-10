@@ -1,29 +1,15 @@
-
+h1{color:pink; font-size: 12px;}
 
 <!DOCTYPE html>
 <html>
   <head>
   <link ref="webtest" href="rando.css"
-  <script src="java.js">
-    </script>
 
   <head>
-  <style>
-    body
-    {
-      background-image: url("https://i.ebayimg.com/images/g/M~EAAOSwv0tVUVHP/s-l300.jpg");
-    }
-    </style>
-
-    <button type="button">Click Below</button>
-   <p><a href="https://www.himgs.com/imagenes/hello/social/hello-fb-logo.png">HERE</p>
-
-
-
-
-      <h1><p style="color:green;">Charry Sacramento</h1></p>
-      <h2><p style="color:purple;">All About me</h2></p>
-  <h3><p style="color:orange;"> My favorite holiday is Christmas.
+    <body>
+      <h1>Charry Sacramento</h1>
+      <h2>All About me</h2>
+  <h3><p style="color:pink;"> My favorite holiday is Christmas.
   It’s one of the only holidays my extended family gets together and can finally be a whole.
   It also falls on my grandpa’s birthday which makes it even more special for us.
   To the left, you can see a photo of my family from last Christmas in 2018.
@@ -34,10 +20,10 @@
   Don’t even get me started with the food. My aunties and uncles come together to put a bomb feast down.
   One of my favorite parts is when we all gather around the table to pray and say grace.
   It’s where I'm truly able to look around be blessed for everything I have including my family.</p></h3>
-  <p>CLICK <a href="https://media3.giphy.com/media/wPn31WOCzkvKg/giphy.gif">ME</a></p>
+  <p>CLICK <a href="https://media3.giphy.com/media/wPn31WOCzkvKg/giphy.gif">HERE</a></p>
   <img src="family".jpg" width="104" height="142">
 
-
-
-    <body>
-      </html>
+  <p>I am normal</p>
+<p style="color:red;">I am red</p>
+<p style="color:blue;">I am blue</p>
+<p style="font-size:50px;">I am big</p>
